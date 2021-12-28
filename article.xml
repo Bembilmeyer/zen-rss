@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:georss="http://www.georss.org/georss">
+    <channel>
+        <title>Спортмастер Медиа</title>
+        <link>https://www.sportmaster.ru/media/</link>
+        <description>
+            Официальный сайт компании Спортмастер. Ни дня без спорта!
+        </description>
+        <language>ru</language>
+        <item>
+            <title>Как подобрать футбольные аксессуары</title>
+            <link>https://www.sportmaster.ru/media/articles/10711304</link>
+            <pdalink>https://www.sportmaster.ru/media/articles/10711304</pdalink>            
+            <guid>https://www.sportmaster.ru/media/articles/10711304</guid>
+            <pubDate>Tue, 28 Dec 2021 19:00:00 +0300</pubDate>
+			<media:rating scheme="urn:simple">nonadult</media:rating>
+            <author>Петр Толстой</author>
+            <category>native-draft</category>
+			<category>index</category>
+			<category>лыжи</category>
+            <enclosure url="https://cdn.sptmr.ru/upload/content/cmsgate/ru_sm/smprod/setkaio-upload/actual/shoes_cross_country_mini.png" type="image/jpeg"/>
+            
+            <!--<enclosure url="http://example.com/2023/07/04/pic2.jpg" type="image/jpeg"/>
+            <enclosure url="http://example.com/2023/07/04/video/42420" type="video/x-ms-asf"/>-->
+            <description>
+                <![CDATA[
+           Не стоит ориентироваться только на цену. Недорогие модели могут быть слишком мягкими, не обеспечивать необходимой фиксации и комфорта при длительном использовании.
+                ]]>
+            </description>
+            <content:encoded>
+                <![CDATA[
+                    <p>Здесь находится обработанный текст статьи.</p>
+                ]]>
+            </content:encoded>
+        </item>
+    </channel>
+</rss>
